@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "baseUrl": ".",
+        "baseUrl": "//their-site.netlify.app/sub-folder",
         "paths": {
             "@/*": [
                 "resources/js/*"
